@@ -51,3 +51,10 @@ tags
 CMakeLists.txt
 cmake-build-debug
 *.mk
+*.o
+STM32F103C8T6/USER/Template.uvguix.frei
+*.frei
+*.__i
+*.axf
+*.htm
+*.uvprojx
